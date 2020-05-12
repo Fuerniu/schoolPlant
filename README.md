@@ -1,0 +1,2 @@
+# schoolPlant
+My graduation project
